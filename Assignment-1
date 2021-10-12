@@ -3,10 +3,10 @@ Explain why we need a DataBase Management System (DBMS) instead of a spreadsheet
 The primary technological distinction between a spreadsheet and a database is how data is stored. Data is kept in a cell in a spreadsheet and can be formatted, altered, and modified within that cell. Cells in a database hold records from different tables.Databases store information more effectively, and they can handle large amounts of data that would be impossible to manage on a spreadsheet. Databases do not have record restrictions, however spreadsheets have. Spreadsheets, in comparison to databases, can take up a lot of hard disk space for data storage.
 
 Advantages using a DBMS compared to a spreadsheet
-•	DMBS can be used by multiple users at the same time.
-•	Databases can be backed up security, centrally, and automatically
-•	Data is more secure with options to limit access by machine, user, networks, passwords.
-•	Spreadsheets are often difficult to code effectively
+• DMBS can be used by multiple users at the same time.
+• Databases can be backed up security, centrally, and automatically
+• Data is more secure with options to limit access by machine, user, networks, passwords.
+• Spreadsheets are often difficult to code effectively
 
 Disadvantages using a DBMS compared to a spreadsheet
 • High Cost
